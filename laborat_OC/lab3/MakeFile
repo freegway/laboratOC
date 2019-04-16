@@ -1,0 +1,2 @@
+select:select.c
+	gcc -W -Wall -o select select.c
